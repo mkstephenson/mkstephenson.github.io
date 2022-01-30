@@ -1,3 +1,1 @@
-# Michael's Profile
-
 Welcome to my site, a collection of my test projects (none of which of course ever got completed).
