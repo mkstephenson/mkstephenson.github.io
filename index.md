@@ -6,4 +6,5 @@ header:
   overlay_image: /assets/images/IMG_20210918_122436.jpg
 excerpt: "Welcome to my site, a collection of my test projects (none of which of course ever got completed)."
 masthead_title: " "
+author: Michael Stephenson
 ---
