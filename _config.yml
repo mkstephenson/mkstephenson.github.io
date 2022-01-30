@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      title: "Michael's Site"
+plugins:
+  - "jekyll-include-cache"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
