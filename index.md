@@ -10,3 +10,5 @@ author_profile: true
 permalink: "/"
 classes: wide
 ---
+
+[Projects](/posts/)
