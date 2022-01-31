@@ -1,6 +1,5 @@
 ---
 title: "Windows 10 IoT TCP Server"
-date: "2017-10-15T13:59:56+02:00"
 ---
 
 In the past I've been tinkering quite a bit with Windows 10 IoT and one thing that irritated me was the fact that back then you couldn't use the System.Net.HttpListener inside UWP Apps.

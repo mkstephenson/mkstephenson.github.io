@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/IMG_20210918_122436.jpg
 excerpt: "Welcome to my site, a collection of my test projects."
 title: "Michael's Projects"
-author: "Michael Stephenson"
+author_profile: true
 permalink: "/"
 classes: wide
 ---
