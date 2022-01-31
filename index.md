@@ -11,4 +11,4 @@ permalink: "/"
 classes: wide
 ---
 
-[Projects](/posts/)
+You'll find my projects here [here](/posts/). This is currently a bit sparse, will be expanded as I get round to documenting some more things.
