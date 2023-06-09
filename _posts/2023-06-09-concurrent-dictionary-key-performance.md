@@ -6,7 +6,7 @@ I recently tested which sort of key (if any) is the most performant to use for a
 
 So I wrote the following small application to test the speed of retrieval and ran it in Release mode to ensure the best performance.
 
-```cs Program.cs
+```cs
 using System.Collections.Concurrent;
 using System.Diagnostics;
 
@@ -310,3 +310,5 @@ Average retrieval time was 0,042 ms
 ```
 
 Based on these numbers, the best key would be either a record struct with value contents or a tuple with value contents. However, if you need to have strings in the keys, maybe the record struct would be the best approach here, although I do have a feeling that, given that most of the keys with string contents hover around the 0.04-0.05ms mark, the exact number is simply down to what my computer was feeling like on average in those 30 seconds.
+
+The next step will be to run the tests in parallel and for longer and see what effect that has on the timings.
