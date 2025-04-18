@@ -52,6 +52,9 @@ author:
     - label: "GitHub"
       icon: "fa-brands fa-github"
       url: "https://github.com/mkstephenson"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/mklstephenson/"
 
 # Site Footer
 footer:
@@ -62,6 +65,9 @@ footer:
     - label: "GitHub"
       icon: "fa-brands fa-github"
       url: "https://github.com/mkstephenson"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/mklstephenson/"
 
 atom_feed:
   hide: true
